@@ -1,0 +1,1 @@
+<h2 class="text-center p-5 secondary-background main-font text-white mt-5">&copy Kenneth McKenzie {{date('Y')}}</h2>

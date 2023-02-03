@@ -1,0 +1,2 @@
+[27-Feb-2022 09:57:08 Europe/London] PHP Warning:  require_once(/home/kennethm/api.kennethmckenzie.co.uk/public/bootstrap/app.php): failed to open stream: No such file or directory in /home/kennethm/api.kennethmckenzie.co.uk/public/index.php on line 47
+[27-Feb-2022 09:57:08 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/home/kennethm/api.kennethmckenzie.co.uk/public/bootstrap/app.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kennethm/api.kennethmckenzie.co.uk/public/index.php on line 47
